@@ -12,3 +12,9 @@ In this directory I saved vanilla, modified and self made Klipper configs.
 
 ### standard
 
+## Extra configs
+
+### sensors.cfg
+- A config file to declare all sensors one can use
+- Code source: https://forum.makewithtech.com/t/klipper-tip-see-mcu-temps-on-dashboard/3652
+
