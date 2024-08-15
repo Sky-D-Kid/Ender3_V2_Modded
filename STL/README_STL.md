@@ -7,7 +7,7 @@
 ## Hotend
 - Bambulab X1C Hotend fan duct for Ender 3 -- 
   - https://www.printables.com/model/931051 
-- Bambulab X1C Hotend adapter for Ender 3 Mount -- 
+- Bambulab X1C Hotend adapter for Ender 3 Mount -- Bambulab_Adapter_Creality_Pc4m10.stl
   - https://www.printables.com/model/437964-bambulab-hotend-mount-creality-ender-3-v2cr10-and-
 - BQ Microprobe bracket -- microprobe_ender3v2.stl
   - https://www.printables.com/model/495491/files
